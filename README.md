@@ -1,6 +1,7 @@
 # sample
->[!WARNING]
->This is a warning
+
+
+[https://github.com/laravel/laravel/releases](click here)
 
 !x This is an error message
 
